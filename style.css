@@ -1,0 +1,32 @@
+h1{
+   text-align: center;
+font-size: 36px;
+font-family:Oswald ;
+
+}
+p{
+font-size: 900;
+font-family:roboto,arial ;
+
+}
+
+h1 span{
+   color: blue;
+}
+
+p span{
+
+   color: red;
+   font-size: 30px;
+   font-size: 600;
+}
+
+
+#pera1{
+   color: brown;
+}
+ #pera2{
+
+color: darkgreen;
+  
+ }
